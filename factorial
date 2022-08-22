@@ -1,2 +1,5 @@
-#include <stdio.h>
+#incluide <stdio.h>
+#includide <stdlib.h>
+//L a complegidad del programa es 0(n)
 
+int n=0;
